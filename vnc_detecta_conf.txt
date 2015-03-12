@@ -1,0 +1,26 @@
+[principal]
+u=user@email.com
+p=password
+pop3=POP3 server
+ssl=no
+smtp=SMTP server
+aquien=destination email
+emailsi=si
+formatofecha=%m/%d/%y %H:%M:%S
+
+[puertos]
+3389=emailsi
+5900=
+47194=
+47195=emailsi
+
+[procesos]
+TeamViewer_Desktop=
+g2ahost=
+
+[excepciones]
+192.168.1.201=
+192.168.1.191=
+
+[eventos]
+4648=
